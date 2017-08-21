@@ -1,5 +1,5 @@
 //index.js
-const  {a,b,c,d=400,foo} =require('lib');
+const  {a,b,c,d=400,foo} =require('alan_lib');
 var add=function(){
     return a+b
 }
