@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alannungaraysofttek/module_alan/issues"
   },
-  "homepage": "https://github.com/alannungaraysofttek/module_alan#readme"
+  "homepage": "https://github.com/alannungaraysofttek/module_alan#readme",
+  "dependencies": {
+    "alan_lib": "git+https://github.com/alannungaraysofttek/alan_lib.git"
+  }
 }
